@@ -1,4 +1,4 @@
-# Bash-Database-engine
+# Shell-Database-engine
 
 A lightweight, terminal-based Database Management System (DBMS) built entirely using **Bash Scripting**. This project simulates a relational database environment where you can manage databases and tables through a command-line interface.
 
